@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Ismail-SWE/Blog-Card-Project
 - Live Site URL: https://ismail-swe.github.io/Blog-Card-Project/
 
 ## My process
@@ -73,4 +73,4 @@ Using `object-fit: cover` to properly fit images inside their containers:
 
 ## Author
 
-- Frontend Mentor - [@IsmailovK](https://www.frontendmentor.io/profile/IsmailovK)
+- Frontend Mentor website account - [@IsmailovK](https://www.frontendmentor.io/profile/IsmailovK)
